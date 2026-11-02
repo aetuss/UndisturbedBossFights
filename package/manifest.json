@@ -1,0 +1,9 @@
+﻿{
+  "name": "UndisturbedBossFights",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "No raids or new creature spawns interrupt a boss fight. Raids are delayed, not cancelled. The fight itself is unchanged.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2360"
+  ]
+}
