@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2
+
+- README: notes that multiplayer and dedicated servers haven't been tested yet. No code changes.
+
 ## 1.0.1
 
 - Added a link for feedback and bug reports: [GitHub Issues](https://github.com/aetuss/UndisturbedBossFights/issues).

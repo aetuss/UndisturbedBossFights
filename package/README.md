@@ -32,6 +32,8 @@ Change these in game with F1 (Configuration Manager) or in your mod manager's co
 
 ## Multiplayer
 
+**Note:** Multiplayer and dedicated servers haven't been tested yet. It's built to work there, but if something seems off, please report it on GitHub Issues.
+
 Install it on the server and on every player's game. Raids are decided by the server, and spawns by the player who owns that area, so both need the mod. The server's settings are used for everyone (except `DebugLog`). The server warns when a player joins without the mod or with a different version.
 
 Raids are held back for the whole world while any boss fight is going on, even for players far from it. They only wait for the fight to end; none are lost.

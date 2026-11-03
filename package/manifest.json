@@ -1,6 +1,6 @@
 {
   "name": "UndisturbedBossFights",
-  "version_number": "1.0.1",
+  "version_number": "1.0.2",
   "website_url": "https://github.com/aetuss/UndisturbedBossFights",
   "description": "No raids or new creature spawns interrupt a boss fight. Raids are delayed, not cancelled. The fight itself is unchanged.",
   "dependencies": [
