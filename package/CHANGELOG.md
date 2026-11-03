@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3
+
+- README: says that the mod was made with AI (Claude by Anthropic), as Thunderstore asks. The DLL carries the same note in its metadata. No gameplay changes.
+
 ## 1.0.2
 
 - README: notes that multiplayer and dedicated servers haven't been tested yet. No code changes.

@@ -41,3 +41,7 @@ Raids are held back for the whole world while any boss fight is going on, even f
 ## Feedback and bug reports
 
 Found a bug or have an idea? Open an issue on [GitHub](https://github.com/aetuss/UndisturbedBossFights/issues). If an enemy or raid does something odd, turn on `DebugLog` and include the matching lines from `BepInEx/LogOutput.log`.
+
+## Made with AI
+
+aetuss decided what this mod does and how it should work, and tested it in game. The code, the icon and this description were written by Claude, an AI model by Anthropic (through Claude Code).

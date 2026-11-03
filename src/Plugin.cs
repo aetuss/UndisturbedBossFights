@@ -2,6 +2,10 @@ using BepInEx;
 using BepInEx.Configuration;
 using HarmonyLib;
 
+// Thunderstore asks mods made with AI to say so here and in the README.
+[assembly: System.Reflection.AssemblyMetadata("AI_Assisted_Creation", "This assembly was fully created with the assistance of Generative AI: the code was written by Claude (Anthropic) through Claude Code.")]
+[assembly: System.Reflection.AssemblyMetadata("AI_Model_Vendor", "Anthropic")]
+
 namespace UndisturbedBossFights
 {
     [BepInPlugin(Guid, ModName, Version)]
@@ -9,7 +13,7 @@ namespace UndisturbedBossFights
     {
         public const string Guid = "UndisturbedBossFights";
         public const string ModName = "UndisturbedBossFights";
-        public const string Version = "1.0.2";
+        public const string Version = "1.0.3";
 
         internal static Synced<bool> DelayRaids;
         internal static Synced<bool> BlockSpawns;
