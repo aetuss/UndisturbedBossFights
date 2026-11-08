@@ -45,3 +45,7 @@ Found a bug or have an idea? Open an issue on [GitHub](https://github.com/aetuss
 ## Made with AI
 
 aetuss decided what this mod does and how it should work, and tested it in game. The code, the icon and this description were written by Claude, an AI model by Anthropic (through Claude Code).
+
+## License
+
+MIT. See [LICENSE](https://github.com/aetuss/UndisturbedBossFights/blob/main/LICENSE) on GitHub.
